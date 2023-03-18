@@ -1,0 +1,293 @@
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/signup.php on line 8
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/signup.php on line 8
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/weislabc/public_html/bcd/signup.php on line 8
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: conn in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: conn in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 15:49:31 UTC] PHP Notice:  Undefined variable: conn in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 15:49:31 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, null given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 15:57:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 15:57:40 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 15:57:40 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 15:57:40 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 15:57:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 15:57:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 15:57:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 15:57:40 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 15:58:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 15:58:04 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 15:58:04 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 15:58:04 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 15:58:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 15:58:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 15:58:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 15:58:04 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 16:00:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:00:01 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:00:01 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:00:01 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:00:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:00:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 59
+[04-Dec-2019 16:00:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 16:00:01 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 67
+[04-Dec-2019 16:00:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:00:40 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:00:40 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:00:40 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:00:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:00:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:00:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:00:40 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 16:01:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:01:17 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:01:17 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:01:17 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:01:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:01:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:01:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:01:17 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 16:03:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:03:36 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:03:36 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:03:36 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:03:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:03:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:03:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:03:36 UTC] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 66
+[04-Dec-2019 16:04:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:04:07 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:04:07 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:04:07 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:04:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:04:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:04:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:04:07 UTC] PHP Notice:  Use of undefined constant mysqli_error - assumed 'mysqli_error' in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:06:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:06:00 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:06:00 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:06:00 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:06:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:06:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:06:00 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:07:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:07:40 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:07:40 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:07:40 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:07:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:07:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:07:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:07:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:08:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:08:04 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:08:04 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:08:04 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:08:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 65
+[04-Dec-2019 16:09:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:09:13 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:09:13 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:09:13 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:09:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:09:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:09:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:09:44 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:09:44 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:09:44 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:09:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:09:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 57
+[04-Dec-2019 16:11:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:17 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:11:17 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:11:17 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:11:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:11:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:11:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:39 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:11:39 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:11:39 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:11:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 59
+[04-Dec-2019 16:11:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 59
+[04-Dec-2019 16:11:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:53 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:11:53 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:11:53 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:11:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:11:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 59
+[04-Dec-2019 16:11:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 59
+[04-Dec-2019 16:12:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:12:23 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:12:23 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:12:23 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:12:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:12:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:13:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:13:36 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:13:36 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:13:36 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:13:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:13:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:13:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:14:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:14:04 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:14:04 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:14:04 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:14:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:14:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:14:04 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:14:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:14:29 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:14:29 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:14:29 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:14:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:14:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:14:29 UTC] PHP Notice:  Use of undefined constant mysqli_error - assumed 'mysqli_error' in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:16:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:16:00 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:16:00 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:16:00 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:16:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:16:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:16:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:16:21 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:16:21 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:16:21 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 60
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 67
+[04-Dec-2019 16:16:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 67
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:17:06 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:17:06 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:17:06 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 60
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/weislabc/public_html/bcd/signup.php on line 62
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 69
+[04-Dec-2019 16:17:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/weislabc/public_html/bcd/signup.php on line 69
+[04-Dec-2019 16:18:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:18:43 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:18:43 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:18:43 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:18:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:18:43 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:19:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:19:13 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:19:13 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:19:13 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:19:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:19:13 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/weislabc/public_html/bcd/signup.php on line 58
+[04-Dec-2019 16:20:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[04-Dec-2019 16:22:08 UTC] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[04-Dec-2019 16:22:08 UTC] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[04-Dec-2019 16:22:08 UTC] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[04-Dec-2019 16:27:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/weislabc/public_html/bcd/app.php on line 8
+[04-Dec-2019 16:30:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/weislabc/public_html/bcd/app.php on line 8
+[04-Dec-2019 16:53:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/weislabc/public_html/bcd/app.php on line 8
+[04-Dec-2019 16:54:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/weislabc/public_html/bcd/app.php on line 8
+[07-Dec-2019 06:37:02 UTC] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/app.php on line 3
+[07-Dec-2019 06:37:02 UTC] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/app.php on line 58
+[07-Dec-2019 06:37:02 UTC] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/app.php on line 58
+[07-Dec-2019 06:40:07 UTC] PHP Warning:  move_uploaded_file(user_images/11_1.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[07-Dec-2019 06:40:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXuineP' to 'user_images/11_1.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[10-Dec-2019 14:25:01 UTC] PHP Warning:  move_uploaded_file(user_images/11_2.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[10-Dec-2019 14:25:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj3cjt5' to 'user_images/11_2.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[11-Dec-2019 05:18:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/weislabc/public_html/bcd/connection.php on line 2
+[11-Dec-2019 05:21:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[11-Dec-2019 05:22:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[11-Dec-2019 05:26:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[11-Dec-2019 05:26:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'weislabc_bcd'@'localhost' (using password: YES) in /home/weislabc/public_html/bcd/connection.php on line 2
+[12-Dec-2019 02:48:20 UTC] PHP Warning:  move_uploaded_file(user_images/11_3.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[12-Dec-2019 02:48:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpO4AFuT' to 'user_images/11_3.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[15-Dec-2019 09:46:42 UTC] PHP Warning:  move_uploaded_file(user_images/11_4.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[15-Dec-2019 09:46:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiVhNGD' to 'user_images/11_4.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[15-Dec-2019 09:47:47 UTC] PHP Warning:  move_uploaded_file(user_images/11_5.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[15-Dec-2019 09:47:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpL3nf54' to 'user_images/11_5.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[16-Dec-2019 06:04:51 UTC] PHP Warning:  move_uploaded_file(user_images/11_6.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[16-Dec-2019 06:04:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKRZDiB' to 'user_images/11_6.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[16-Dec-2019 12:41:42 UTC] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[16-Dec-2019 12:41:42 UTC] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[16-Dec-2019 12:41:42 UTC] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[16-Dec-2019 12:41:42 UTC] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[16-Dec-2019 12:41:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[16-Dec-2019 12:41:42 UTC] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[16-Dec-2019 12:41:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[16-Dec-2019 12:43:51 UTC] PHP Warning:  move_uploaded_file(user_images/11_7.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[16-Dec-2019 12:43:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWwDJeU' to 'user_images/11_7.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[17-Dec-2019 04:40:33 UTC] PHP Warning:  move_uploaded_file(user_images/11_8.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[17-Dec-2019 04:40:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpn4q5iW' to 'user_images/11_8.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[18-Dec-2019 05:32:48 UTC] PHP Warning:  move_uploaded_file(user_images/11_9.png): failed to open stream: No such file or directory in /home/weislabc/public_html/bcd/image.php on line 25
+[18-Dec-2019 05:32:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWw0eBC' to 'user_images/11_9.png' in /home/weislabc/public_html/bcd/image.php on line 25
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[26-Dec-2019 21:13:31 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[26-Dec-2019 22:26:19 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[27-Dec-2019 03:44:58 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[27-Dec-2019 03:45:40 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[27-Dec-2019 03:46:38 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/image.php on line 3
+[27-Dec-2019 05:07:00 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/image.php on line 3
+[27-Dec-2019 05:25:26 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/image.php on line 3
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[28-Dec-2019 13:00:10 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[28-Dec-2019 13:00:19 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/image.php on line 3
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[04-Jan-2020 21:36:25 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[04-Jan-2020 21:36:34 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/image.php on line 3
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/result.php on line 3
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/result.php on line 65
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/result.php on line 65
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 89
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 92
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Notice:  Undefined index: user_id in /home/weislabc/public_html/bcd/result.php on line 120
+[06-Jan-2020 19:35:53 Australia/Sydney] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/weislabc/public_html/bcd/result.php on line 123
+[12-Jan-2020 22:26:52 Australia/Sydney] PHP Notice:  Undefined variable: username in /home/weislabc/public_html/bcd/signup.php on line 19
+[12-Jan-2020 22:26:52 Australia/Sydney] PHP Notice:  Undefined variable: password in /home/weislabc/public_html/bcd/signup.php on line 33
+[12-Jan-2020 22:26:52 Australia/Sydney] PHP Notice:  Undefined variable: password1 in /home/weislabc/public_html/bcd/signup.php on line 37
+[25-Jan-2020 14:46:10 Australia/Sydney] PHP Notice:  Undefined index: auth in /home/weislabc/public_html/bcd/app.php on line 3
+[25-Jan-2020 14:46:11 Australia/Sydney] PHP Notice:  Undefined index: fname in /home/weislabc/public_html/bcd/app.php on line 65
+[25-Jan-2020 14:46:11 Australia/Sydney] PHP Notice:  Undefined index: lname in /home/weislabc/public_html/bcd/app.php on line 65
