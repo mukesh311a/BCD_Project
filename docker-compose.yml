@@ -1,0 +1,41 @@
+version: '3.9'
+services:
+  php-env:
+    # here we went to root directory that is MYPROJECT2 & search for DockerFile
+    # if it is there then we run the command build all --> build:. 
+    # this command will run the Dockerfile in the root directory and our 
+    # environment !
+    build: .    
+
+    volumes:
+
+    # whatever file we will put in our src folder under root folder that will be 
+    # wen to /var/www/html location under the container
+    # that's the meaning of Volume
+      - .src:/var/www/html
+
+      # Now mention the ports
+     # Port you want to use for your application : Default port of your application
+    ports:
+      - 9000:80  # the mysql port is 9000 --> localhost:9000
+  mysql_db:
+    image: mysql:latest
+    container_name : mysqlhost
+    command: --default-authentication-plugin=mysql_native_password
+   
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+
+      #MYSQL_USER: root
+      #MYSQL_PASSWORD: root
+      #MYSQL_DATABASE: mysql
+
+  phpmyadmin:
+    image: phpmyadmin:latest
+    restart: always
+    ports:
+      - 9001:80  # we are runing our app in 9001
+    environment:
+      - PMA_ARBITRARY=1    
+  
+  
